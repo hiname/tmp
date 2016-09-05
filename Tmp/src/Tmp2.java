@@ -8,4 +8,6 @@ public class Tmp2{
 		// ms
 
 	}
+	
+	public void abc(){}
 }
