@@ -5,7 +5,7 @@ public class Tmp2{
 		// tmp modify - cherry pick
 		// tmp modify - rename branch
 		// master last
-		// 2 modify
-		// ms_mer
+		// ms
+		// mer
 	}
 }
