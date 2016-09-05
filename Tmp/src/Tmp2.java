@@ -10,6 +10,6 @@ public class Tmp2{
 	}
 	
 	public void abc(){
-		System.out.println("qwqw");
+		System.out.println("abab");
 	}
 }
